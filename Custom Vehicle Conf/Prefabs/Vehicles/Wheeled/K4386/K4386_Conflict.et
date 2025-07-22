@@ -1,0 +1,21 @@
+Vehicle : "{A61E5C16E9A2161A}Prefabs/Vehicles/Wheeled/K4386/K4386.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    m_sFaction "USSR"
+    m_aAutoLabels {
+     10 122
+    }
+    m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
+      m_Value 1200
+     }
+    }
+   }
+  }
+  SCR_WheeledDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 4524.6
+  }
+ }
+}
