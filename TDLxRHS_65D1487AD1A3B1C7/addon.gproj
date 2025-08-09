@@ -1,0 +1,22 @@
+GameProject {
+ ID "TDLxRHS"
+ GUID "65D1487AD1A3B1C7"
+ TITLE "TDL x RHS"
+ Dependencies {
+  "652B2C2C0F3C4C0F" "65B0EA5C18542945" "595F2BF2F44836FB" "58D0FB3206B6F859"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
