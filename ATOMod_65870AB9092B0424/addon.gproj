@@ -1,0 +1,22 @@
+GameProject {
+ ID "ATOMod"
+ GUID "65870AB9092B0424"
+ TITLE "ATOMod"
+ Dependencies {
+  "58D0FB3206B6F859" "64EE818E08AFCF94" "629B2BA37EFFD577" "6273146ADFE8241D"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
