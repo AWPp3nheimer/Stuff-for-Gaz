@@ -1,5 +1,0 @@
-MatPBRBasic {
- Cull none
- BCRMap "{BA47728019055092}Images/AH-6M.edds"
- NMOMap "{0B0F16687E13A1F6}Assets/Vehicles/Helicopters/AH6M/Data/Textures/AH6M_Body_1_NMO.edds"
-}
